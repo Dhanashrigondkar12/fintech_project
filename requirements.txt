@@ -1,0 +1,11 @@
+pymupdf 
+pdfplumber
+pytesseract
+pillow 
+spacy
+numpy
+huggingface_hub
+
+
+
+
